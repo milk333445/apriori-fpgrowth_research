@@ -1,0 +1,9 @@
+step3_task1_A_0.01_result1:0.0420382022857666 seconds
+step3_task1_A_0.005_result1:0.07057404518127441 seconds
+step3_task1_A_0.002_result1:0.30452489852905273 seconds
+step3_task1_B_0.005_result1:160.5590102672577 seconds
+step3_task1_B_0.002_result1:163.87643432617188 seconds
+step3_task1_B_0.0015_result1:175.31982517242432 seconds
+step3_task1_C_0.03_result1:7089.373248338699 seconds
+step3_task1_C_0.02_result1:12835.472415208817 seconds
+step3_task1_C_0.01_result1:14632.589875221252 seconds
