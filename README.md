@@ -7,7 +7,7 @@
 ## 程式運行說明
 
 ### 步驟Ⅱ:Apriori程式運行說明
-- Task1 主要由 Task1.py 檔案處理，執行步驟如下:
+- Apriori 主要由 Task1.py 檔案處理，執行步驟如下:
 ```python=
 python Task1.py --dataset A --min_support 0.002 --result 1
 ```
