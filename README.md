@@ -16,7 +16,7 @@ python Task1.py --dataset A --min_support 0.002 --result 1
 python Task1.py --dataset A --min_support 0.002 --result 2
 ```
   - 生成 min_support 0.02, dataset A 的統計資料.txt 到output_in_step2 這個資料夾中，command line 會輸出執行時間(秒)
-- Task2 主要由 Task2.py 檔案處理，執行步驟如下:
+- Apriori Frequent Closed Itemset 主要由 Task2.py 檔案處理，執行步驟如下:
 ```python=
 python Task2.py --dataset A --min_support 0.002
 ```
