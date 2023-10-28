@@ -1,5 +1,9 @@
 # Apriori v.s FP-Growth
 
+## Introduction
+- In the field of data mining and association analysis, Apriori and FP-Growth are two commonly used algorithms for discovering associations among sets of items. These algorithms have wide-ranging applications in uncovering relationships among items, such as market basket analysis, recommendation systems, bioinformatics, and more. In this report, we will compare the performance of these two algorithms under different dataset sizes, with a particular focus on their execution times. We have selected three datasets of varying magnitudes, including small, medium, and large datasets, to evaluate the performance of these algorithms in handling data of different scales. This comparison will help us gain a better understanding of when to choose Apriori or FP-Growth in practical applications and how to optimize their performance.
+
+- You can find more detailed results in the "apriori_fp_growth_compare_Report.pdf" document.
 ## 程式運行說明
 
 ### 步驟Ⅱ:Apriori程式運行說明
